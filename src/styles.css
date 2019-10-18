@@ -1,0 +1,17 @@
+.App {
+    font-family: Nunito, sans-serif;
+  }
+
+  .Chart {
+    height: 300px;
+  }
+
+  .background {
+    background-color: #fbfcfd;
+  }
+
+ .lineChart {
+    height: 500px;
+    width:500px;
+    background-color: #f7fcfa;
+}
