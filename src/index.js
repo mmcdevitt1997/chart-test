@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { render } from "react-dom";
 import WorkLifeBalance from "./WorkLifeBalance";
 import "./styles.css";
 
